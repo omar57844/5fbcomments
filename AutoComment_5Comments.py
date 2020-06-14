@@ -10,7 +10,7 @@ def main():
 
     clear = lambda: os.system("cls")
     clear()
-    print("Welcome to Omar Hegazy's (AutoCommenting) Program. All Rights Reserved, 2020.")
+    print("Welcome to Omar Hegazy's (AutoCommenting for Faceboook, WhatsApp, Twitter, Instagram and all social media) Program. All Rights Reserved, 2020.")
     time.sleep(1.5)
     print("")
     print("For the program to work, you have to enter: the number of comments (will be multiplied by 5), 5 comments of your own to be posted,")
