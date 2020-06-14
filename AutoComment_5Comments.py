@@ -71,16 +71,19 @@ def main():
 
         pyautogui.typewrite(comment1)
         pyautogui.typewrite("\n")
+        time.sleep(timewait)
         pyautogui.typewrite(comment2)
         pyautogui.typewrite("\n")
+        time.sleep(timewait)
         pyautogui.typewrite(comment3)
         pyautogui.typewrite("\n")
+        time.sleep(timewait)
         pyautogui.typewrite(comment4)
         pyautogui.typewrite("\n")
+        time.sleep(timewait)
         pyautogui.typewrite(comment5)
         pyautogui.typewrite("\n")
 
-        time.sleep(timewait)
 while True:
     main()
     print("All done! Hope this program helped. :). ")
